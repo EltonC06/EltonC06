@@ -1,15 +1,38 @@
-### Olá, Eu sou o Elton da Costa! 👋
+# Hello, my name is Elton da Costa! 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elton-da-costa/)
+### "I'm always learning"
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonc06&layout=compact)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonc06&layout=compact&theme=dark" />
+  </a>
+</p>
 
-Apaixonado por tecnologia e inovação, motivado a transformar a humanidade através da programação
 
-## Tecnologias que estou aprendendo e uso no meu dia:
+### I'm passionate about technology and innovation, and I believe I can make a difference by studying and applying my software development skills.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+## Technologies I'm Studying/Have Studied:
 
-## IDEs que uso/já usei para fazer projetos:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,kotlin" />
+  </a>
+</p>
 
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![STS](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,git" />
+  </a>
+</p>
+
+## IDEs I'm Using/Have Used:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,androidstudio" />
+  </a>
+</p>
+
+#
+### Follow my Progress: 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/elton-da-costa/)
