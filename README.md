@@ -11,34 +11,29 @@
 
 ### I'm passionate about technology and innovation, and I believe I can make a difference by studying and applying my software development skills.
 
-## Technologies I'm Studying/Have Studied:
+# Tech Stack 💻
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kotlin" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git" />
-  </a>
-</p>
-
-## IDEs I'm Using/Have Used:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,androidstudio" />
-  </a>
-</p>
+| **Category**         | **Technologies**                                                                                                                                               |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Back-end**          | <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python" />                                                                                         |
+| **Front-end**         | <img src="https://skillicons.dev/icons?i=html,css,javascript" />                                                                                               |
+| **Frameworks**        | <img src="https://skillicons.dev/icons?i=spring" />                                                                                                            |
+| **Databases**         | <img src="https://skillicons.dev/icons?i=mysql" />                                                                                                             |
+| **IDEs**              | <img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm" />                                                                                            |
+| **Version Control**   | <img src="https://skillicons.dev/icons?i=git,github" />                                                                                                        |
+| **Other Tools**       | <img src="https://skillicons.dev/icons?i=postman" />                                                                                                           |
 
 #
-### Follow my Progress: 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/elton-da-costa/)
+### Contact Me 📫
+If you'd like to get in touch, feel free to reach out via email:
+
+<p align="center"> 
+ <a href="mailto:eltoncosta00614@gmail.com"><strong>eltoncosta00614@gmail.com</strong></a>
+</p>
+
+### Follow My Progress 🚀
+If you're interested in following my journey and projects, connect with me on LinkedIn:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/elton-da-costa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</p>
